@@ -9,6 +9,50 @@
 @import 'layout';
 
 /*********************************************
+ * CUSTOM STYLES
+ *********************************************/
+
+ .text50 {
+	font-size: 0.5em;
+}
+
+.text60 {
+	font-size: 0.6em;
+}
+
+.text70 {
+	font-size: 0.7em;
+}
+
+.text80 {
+	font-size: 0.8em;
+}
+
+.text90 {
+	font-size: 0.9em;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	// flex-wrap: nowrap;
+  }
+
+.col1 {
+	flex: 1;
+}
+
+.col2 {
+	flex: 2;
+}
+
+.col3 {
+	flex: 3;
+}
+
+
+ /*********************************************
  * GLOBAL STYLES
  *********************************************/
 
